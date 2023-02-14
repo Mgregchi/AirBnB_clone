@@ -316,4 +316,4 @@ The recognizable commands by the interpreter are the following:
 
 
 ## Authors :black_nib:
-- Michael .A. <[mgregchi]((https://github.com/mgregchi)>
+- Amadi Michael <[mgregchi](https://github.com/mgregchi)>
