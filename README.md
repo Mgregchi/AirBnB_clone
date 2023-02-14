@@ -16,7 +16,8 @@ For this project, we expect you to look at these concepts:
 ### Welcome to the AirBnB clone project!
 Before starting, please read the **AirBnB** concept page.
 
-![AirBnB-Overview](https://youtu.be/XRH_8w1DEGI)
+
+[![AirBnB-Overview](https://img.youtube.com/vi/XRH_8w1DEGI/0.jpg)](https://youtu.be/XRH_8w1DEGI)
 
 ### First step: Write a command interpreter to manage your AirBnB objects.
 
@@ -45,16 +46,16 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 
 **Read or watch:**
 
-- cmd module
-- cmd module in depth
+- [cmd module](https://docs.python.org/3.8/library/cmd.html)
+- [cmd module in depth](http://pymotw.com/2/cmd/)
 - packages concept page
-- uuid module
-- datetime
-- unittest module
-- args/kwargs
-- Python test cheatsheet
-- cmd module wiki page
-- python unittest
+- [uuid module](https://docs.python.org/3.8/library/uuid.html)
+- [datetime](https://docs.python.org/3.8/library/datetime.html)
+- [unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
+- [args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+- [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
+- [cmd module wiki page](https://wiki.python.org/moin/CmdModule)
+- [python unittest](https://realpython.com/python-testing/)
 
 
 ## General Learning Objectives
@@ -145,7 +146,7 @@ $
 ```
 
 All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest discover tests" | bash`
-![SE-HBNB-CONSOLE](https://youtu.be/1mAC9x3aixE)
+[![SE-HBNB-CONSOLE](https://img.youtube.com/vi/1mAC9x3aixE/0.jpg)](https://youtu.be/1mAC9x3aixE)
 
 
 ## Project Description
