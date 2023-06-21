@@ -1,9 +1,15 @@
-header{
-    background-image: url("../images/logo.png");
+header {
     background-color: white;
-    background-repeat: no-repeat;
-    background-position-x: 20px;
-    height: 60px;
+    height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC;
-}
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 140px;
+    height: 50px;
+    background: url('../images/logo.png') no-repeat center;
+    padding-left: 20px;
+  }
